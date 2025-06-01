@@ -30,5 +30,8 @@ print(string_double_quotes)
 ```
 ## OUTPUT
 
-## RESULT
+![image](https://github.com/user-attachments/assets/1447f587-93a5-415b-a55f-837916f7b538)
 
+
+## RESULT
+Thus the given program implemented and executed successfully.
